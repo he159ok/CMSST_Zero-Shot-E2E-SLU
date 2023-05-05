@@ -54,7 +54,7 @@ After that, the organization of peoplespeech is `datasets/peoplespeech/`, where 
 ### Training
 We will release its related code once our work is accepted. For now, we only release the data and evaluate code.
 
-### Testing of $\Theta^{A \shortrightarrow L, t} $, and ${\Theta}^{A \shortrightarrow L, t}$
+### Testing
 For testing any results from SLUE-Voxpopuli dataset, we can run below,
 ```
 project_path="/speechbrain/recipes/SLURP/Zero_shot_cross_modal/"
